@@ -1,17 +1,9 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: dbce42e33a14afa1213646f8c98d7a8d
-    PropagateID: dbce42e33a14afa1213646f8c98d7a8d
-    ReservedCode1: 3044022032a5116cf6cba1c012a2cb3380e965b40b600dccdfb566c15bf59784508a37d102200e07ffacf142e614798b54cd83c4c366068ac21ed997f308dad62f210a1f1058
-    ReservedCode2: 30440220261d65e190db7550710b5add1493689df40fe7843724a9f522eddaa48bc49e720220441a97d5c0cd71b3785ebc5f27881b798b036a28beba2fe175015c200b991238
----
 
-# LM Studio 文本校对工具
+# 文本校对工具
 
-使用本地 LM Studio 大语言模型对 Markdown 文件进行智能校对的桌面工具。
+使用本地大语言模型（如LM Studio）对 Markdown 文件进行智能校对的桌面工具。
+
+ 
 
 ## 功能特性
 
